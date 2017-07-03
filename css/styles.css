@@ -1,5 +1,5 @@
 body {
-  background-color: #F08080;
+  background-color: #0003a8;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -59,8 +59,8 @@ a:hover, a:active, a:visited {
 }
 
 .aboutme {
-  font-family: cursive;
-  color: #292929;
+  font-family: 'Satisfy', cursive;
+  color: #ABB7C2;
   width: 500px;
   position: relative;
   bottom: 24px;
