@@ -1,0 +1,149 @@
+body {
+  background-color: #F08080;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.header {
+  background-color: #0A5CC2;
+  color: #09B297;
+  text-align: center;
+  margin: 10px;
+}
+
+.round {
+  border-radius: 30px;
+}
+
+.nav {
+  background-color: #0A5CC2;
+  color: #09B297;
+  margin: 10px;
+}
+
+.navbar {
+  list-style: none;
+  padding: 1px;
+  margin: 0;
+  text-align: center;
+}
+
+.nav-link {
+  display: inline;
+  padding: 1px;
+}
+
+.button {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+a:hover, a:active, a:visited {
+  text-decoration: none;
+}
+
+.content {
+  font-family: cursive;
+  margin-top: 20px;
+  position: relative;
+}
+
+.you {
+  display: inline;
+  width: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.aboutme {
+  font-family: cursive;
+  color: #292929;
+  width: 500px;
+  position: relative;
+  bottom: 24px;
+}
+
+.name {
+  font-size: 40px;
+  text-align: left;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.sub {
+  font-size: 15px;
+}
+
+.wrapper {
+  width: 900px;
+  margin: auto auto 0 auto;
+}
+
+.image {
+  width: 400px;
+}
+
+.pkmn {
+  border-radius: 50%;
+}
+
+.center {
+  text-align: center;
+}
+
+.padding-1 {
+  padding-left: 10px;
+}
+
+.projects {
+  font-family: cursive;
+  color: #292929;
+  position: relative;
+  bottom: 24px;
+}
+
+.cc {
+  padding-bottom: 8px;
+}
+
+.footer {
+  background-color: #0A5CC2;
+}
+
+.side-by-side {
+  padding: 0;
+  list-style: none;
+  padding: 0 350px 0 320px;
+}
+
+.column1 {
+  list-style-type: none;
+  display: inline-block;
+  float: left;
+  vertical-align: top;
+}
+
+.column2 {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: top;
+  float: none;
+}
+
+.column3 {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
